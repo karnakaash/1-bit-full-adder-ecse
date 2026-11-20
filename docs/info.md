@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project implements a 1-bit full adder. It adds inputs A, B, and Cin and produces Sum and Cout outputs.
 
 ## How to test
 
-Explain how to use your project
+Set the three inputs, to either 0 or 1 using the input switches. The circuit adds the three inputs together. The Sum output shows the result bit, while Cout shows whether there is a carry.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Input switches are used to set A, B, and Cin, and LEDs are used to display the Sum and Cout outputs. No other external hardware is required.
